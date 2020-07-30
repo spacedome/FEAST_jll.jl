@@ -8,7 +8,7 @@ For more details about JLL packages and how to use them, see `BinaryBuilder.jl` 
 
 The tarballs for `FEAST_jll.jl` have been built from these sources:
 
-* files in directory, relative to originating `build_tarballs.jl`: `./4.0`
+* git repository: https://github.com/spacedome/feast_julia (revision: `11ae84f7df5cc120d4a34918dd1066a67f205e8f`)
 
 ## Platforms
 
