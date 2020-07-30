@@ -1,267 +1,267 @@
 [[FEAST]]
 arch = "aarch64"
-git-tree-sha1 = "00c2d2bed0585a9acf93aa40ca9730fec70fcf1a"
+git-tree-sha1 = "3e34e19857718fa1c5b63fa49357ef5a6c3a9578"
 libc = "glibc"
 libgfortran_version = "3.0.0"
 os = "linux"
 
     [[FEAST.download]]
-    sha256 = "d0280e74575f64f1c655864d21e5fb560cb3ddb54a1a1ec65f65a95952685789"
+    sha256 = "cd8571ec7477aa9fef8e81759be234375fbe24446bd51644c9a50d913c3af687"
     url = "https://github.com/spacedome/FEAST_jll.jl/releases/download/FEAST-v4.0.0+0/FEAST.v4.0.0.aarch64-linux-gnu-libgfortran3.tar.gz"
 [[FEAST]]
 arch = "aarch64"
-git-tree-sha1 = "0135c700f79635581385a5de3f76ffa18a65ee1a"
+git-tree-sha1 = "e227c71d2bd0beff1d9c248e34fde79e75933ecb"
 libc = "glibc"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[FEAST.download]]
-    sha256 = "22f28100bdca57f2358c4a2714ef5c1cdb4b58a6cd194aeb0935f263858eeb8b"
+    sha256 = "c12e30889f31c0cc7460fc84a652d8d2c459accb10e8907791f3cef7635e851b"
     url = "https://github.com/spacedome/FEAST_jll.jl/releases/download/FEAST-v4.0.0+0/FEAST.v4.0.0.aarch64-linux-gnu-libgfortran4.tar.gz"
 [[FEAST]]
 arch = "aarch64"
-git-tree-sha1 = "441baccdd87dd22a05409c2756971ec1ceeb645d"
+git-tree-sha1 = "9b2784530b19071a5b166eff764dd76a3170ef2c"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[FEAST.download]]
-    sha256 = "55799ea9b15e5461878da68ddf5d8fdfd5a6ddcaaa53a7f301d848751905a9bc"
+    sha256 = "fa84e377422cc14bc49ddf5998d857f4fef8e0ae751b01014a624c11aa428789"
     url = "https://github.com/spacedome/FEAST_jll.jl/releases/download/FEAST-v4.0.0+0/FEAST.v4.0.0.aarch64-linux-gnu-libgfortran5.tar.gz"
 [[FEAST]]
 arch = "aarch64"
-git-tree-sha1 = "26d93072c4b22c0cdfdb4ce0b3151f6429cdbfa4"
+git-tree-sha1 = "9e6d7362bc783d1c1506143436bc6f704601e714"
 libc = "musl"
 libgfortran_version = "3.0.0"
 os = "linux"
 
     [[FEAST.download]]
-    sha256 = "86206684229d3583f3e45b77647aa47ee232a66128aae3166bf41cd564a01ea8"
+    sha256 = "0cbf916dcdeb7bb2cf69ecacc6bd82ed34a5deaea7974e8077bb1849a076aaa7"
     url = "https://github.com/spacedome/FEAST_jll.jl/releases/download/FEAST-v4.0.0+0/FEAST.v4.0.0.aarch64-linux-musl-libgfortran3.tar.gz"
 [[FEAST]]
 arch = "aarch64"
-git-tree-sha1 = "ba5c7e2a58ba07b5e72461ba9f20573c111d5c36"
+git-tree-sha1 = "ab558dd15f6c563d21975ad80a15dcf91a90309e"
 libc = "musl"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[FEAST.download]]
-    sha256 = "71edfc5d64ab9b90b5effff0db35b7b89e9ea2a12bb7f926bc8ae27d95e2a37d"
+    sha256 = "7adcf744f45f2f25702f5c1fcce85ec05bc926d76b5b889322bef977eb1d2a71"
     url = "https://github.com/spacedome/FEAST_jll.jl/releases/download/FEAST-v4.0.0+0/FEAST.v4.0.0.aarch64-linux-musl-libgfortran4.tar.gz"
 [[FEAST]]
 arch = "aarch64"
-git-tree-sha1 = "7aab108e94174ad4f1c085316819b872ddcd1ea0"
+git-tree-sha1 = "2ed20087ce46a7dcc23cdef16fffbf7affb4d3c8"
 libc = "musl"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[FEAST.download]]
-    sha256 = "397f9af1c847a8e81b1e9cb45bc5c1ff1f7ddaabeffff43408bc012ff3c20392"
+    sha256 = "ef873ddef4ba4150aef1c2286656f1174f957cdc97951a639c6f73ebefdb8057"
     url = "https://github.com/spacedome/FEAST_jll.jl/releases/download/FEAST-v4.0.0+0/FEAST.v4.0.0.aarch64-linux-musl-libgfortran5.tar.gz"
 [[FEAST]]
 arch = "armv7l"
-git-tree-sha1 = "800c89042b75cef205673aca154c72d41d9894b3"
+git-tree-sha1 = "5a68645567fe460c5354f39df377d0bef4b2ae3e"
 libc = "glibc"
 libgfortran_version = "3.0.0"
 os = "linux"
 
     [[FEAST.download]]
-    sha256 = "10963ab720b5e09f0cd805d7773374db07966d206baf4398b8ba2a622aa850fa"
+    sha256 = "9347055e987690c7a94fee51956fb2225362c976ed7c8cda3ccf1c8c6fa0dfbb"
     url = "https://github.com/spacedome/FEAST_jll.jl/releases/download/FEAST-v4.0.0+0/FEAST.v4.0.0.armv7l-linux-gnueabihf-libgfortran3.tar.gz"
 [[FEAST]]
 arch = "armv7l"
-git-tree-sha1 = "ff2eda3fde0fa22c188bf1c8571e2f1bd8db615e"
+git-tree-sha1 = "b93359f28f641dd416daae30e03f926416fddd94"
 libc = "glibc"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[FEAST.download]]
-    sha256 = "8d09f5a02f9164f85c3abd41bc595aac5aedb5f186bec76a8005c519dda6e7e9"
+    sha256 = "205d8a9105fe320045af246f0a7bdc04692d8aa8c577d3a39eace941d448a56c"
     url = "https://github.com/spacedome/FEAST_jll.jl/releases/download/FEAST-v4.0.0+0/FEAST.v4.0.0.armv7l-linux-gnueabihf-libgfortran4.tar.gz"
 [[FEAST]]
 arch = "armv7l"
-git-tree-sha1 = "a3495144a3bdd6024fff5ebb70b9730f667344e2"
+git-tree-sha1 = "cd0f20a3e13566f3eb66874fb169f9a12b85fab2"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[FEAST.download]]
-    sha256 = "f0209ea77682d97ed65d88b65b67aa574342ad19142fe8451eacdbd2b4297aa5"
+    sha256 = "021ada29c5aeb5b55d927d3960263b153ea51f84a77d58a99908dfded7b99c0f"
     url = "https://github.com/spacedome/FEAST_jll.jl/releases/download/FEAST-v4.0.0+0/FEAST.v4.0.0.armv7l-linux-gnueabihf-libgfortran5.tar.gz"
 [[FEAST]]
 arch = "armv7l"
-git-tree-sha1 = "994a969d42fdbc9986414422b3f98e9b4a7cba98"
+git-tree-sha1 = "40711bffef4f77bf511e6251bc8e2c4a0c410a91"
 libc = "musl"
 libgfortran_version = "3.0.0"
 os = "linux"
 
     [[FEAST.download]]
-    sha256 = "018772040dd9d4c8b660db62e17cb7863a1c053b017f2582dfa9493a58bcfc36"
+    sha256 = "a0530a7924e0fa75d3fd562fca18fa68d20c869a1779da5024b8dbbe723a80d8"
     url = "https://github.com/spacedome/FEAST_jll.jl/releases/download/FEAST-v4.0.0+0/FEAST.v4.0.0.armv7l-linux-musleabihf-libgfortran3.tar.gz"
 [[FEAST]]
 arch = "armv7l"
-git-tree-sha1 = "c1f21e704050a43f94a707e0e74ee4e61a02a120"
+git-tree-sha1 = "82caf01d0d795a40bbbe740f0c37a4cefc2cac1e"
 libc = "musl"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[FEAST.download]]
-    sha256 = "a8542862bbc46da2a06bb381ed9d2b16c991dc625be19d046b821b3b791b3cd9"
+    sha256 = "deb75b5fb67ab3e70cf4cfb7aef798468ffd152828f1024b9a223d78f002d688"
     url = "https://github.com/spacedome/FEAST_jll.jl/releases/download/FEAST-v4.0.0+0/FEAST.v4.0.0.armv7l-linux-musleabihf-libgfortran4.tar.gz"
 [[FEAST]]
 arch = "armv7l"
-git-tree-sha1 = "9fbdefdb4015039eda88f19128156058cd746d7e"
+git-tree-sha1 = "e5ae406a957cef37c61d62158715377d79108c98"
 libc = "musl"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[FEAST.download]]
-    sha256 = "aa9ad70684178250634ec903a373fdafdb224823813caa9ca539485c38a3f8e7"
+    sha256 = "a8016ef19d2f45398a971aa281ac882fc655b485cc6609ae0336c41ed97808b2"
     url = "https://github.com/spacedome/FEAST_jll.jl/releases/download/FEAST-v4.0.0+0/FEAST.v4.0.0.armv7l-linux-musleabihf-libgfortran5.tar.gz"
 [[FEAST]]
 arch = "i686"
-git-tree-sha1 = "92ea1eab71fb5695cb663fc91b1ff0ee86fd551f"
+git-tree-sha1 = "77a6411fe42b37b00532697b6baf9ff49baa27db"
 libc = "glibc"
 libgfortran_version = "3.0.0"
 os = "linux"
 
     [[FEAST.download]]
-    sha256 = "68d63750d1f762690bc7c0db1b22867f43f25508b29570348247e8fab222aa9f"
+    sha256 = "e02606a18bde7093d6908dbda527be5ba3dc749487b3535fb551467bfc33434b"
     url = "https://github.com/spacedome/FEAST_jll.jl/releases/download/FEAST-v4.0.0+0/FEAST.v4.0.0.i686-linux-gnu-libgfortran3.tar.gz"
 [[FEAST]]
 arch = "i686"
-git-tree-sha1 = "60a64c744290f1974c9d144b8080b4f5c26b1f09"
+git-tree-sha1 = "f56299f78a76586215881488237887dcce1a49c9"
 libc = "glibc"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[FEAST.download]]
-    sha256 = "e28d91cf1ad0c4d9425545d1463f3e50f4e1b0b5ab1a71fb401afe850ca52b03"
+    sha256 = "32b7bda1cad28c1444cda55ebc7098153e79e070f31195f9d00f1587e4d86e44"
     url = "https://github.com/spacedome/FEAST_jll.jl/releases/download/FEAST-v4.0.0+0/FEAST.v4.0.0.i686-linux-gnu-libgfortran4.tar.gz"
 [[FEAST]]
 arch = "i686"
-git-tree-sha1 = "c35f66c69598ea403fe446a44fb93561193ac53a"
+git-tree-sha1 = "275eb1fcce04156535a76f72284aa4505fc2a5d5"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[FEAST.download]]
-    sha256 = "71c1bf98213ae0dd75050ce8f7f292586ba5076b89ecd42b76c51d996cfa30bc"
+    sha256 = "fbcfb10403fab8ab3280f08cdfc8010acc3d1b0aa04c04d1418b5eee9dfee67c"
     url = "https://github.com/spacedome/FEAST_jll.jl/releases/download/FEAST-v4.0.0+0/FEAST.v4.0.0.i686-linux-gnu-libgfortran5.tar.gz"
 [[FEAST]]
 arch = "i686"
-git-tree-sha1 = "d7f1f537f070821c46a26683fc9344efa492f208"
+git-tree-sha1 = "b774a9b86defc8d882625c59bc2519110fadd74d"
 libc = "musl"
 libgfortran_version = "3.0.0"
 os = "linux"
 
     [[FEAST.download]]
-    sha256 = "5ed7490e14310c8dbd2cb178504294fbf60bbd1834b672450f95b2219649dff6"
+    sha256 = "bbc8937f32dfdb126be6651870096c098333ee854d57ac4bd1ac9a6bda7bc9cd"
     url = "https://github.com/spacedome/FEAST_jll.jl/releases/download/FEAST-v4.0.0+0/FEAST.v4.0.0.i686-linux-musl-libgfortran3.tar.gz"
 [[FEAST]]
 arch = "i686"
-git-tree-sha1 = "abc8b02d61227a1f72433dee35fb1510694e94bf"
+git-tree-sha1 = "0d0c486be16e1f927f7382e69d8ca2475256a893"
 libc = "musl"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[FEAST.download]]
-    sha256 = "00cb9943e096d24aa8bc7038711de3b26d6b776a5c28c9fae8f7f91433f96a7f"
+    sha256 = "40fe5ea455d94b1f8ccc5ee7210cf72e2977f9bfebe74131cf5c53499afc9207"
     url = "https://github.com/spacedome/FEAST_jll.jl/releases/download/FEAST-v4.0.0+0/FEAST.v4.0.0.i686-linux-musl-libgfortran4.tar.gz"
 [[FEAST]]
 arch = "i686"
-git-tree-sha1 = "f47d27b4f373dfc625d3ae93cdbde186884cfe34"
+git-tree-sha1 = "d4537005c6008c279a4da9c7eef7f0aeabc07e66"
 libc = "musl"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[FEAST.download]]
-    sha256 = "746860053f73ea7b70b55a81ca32181ad4b5fb27d10a314ab47742b010793b26"
+    sha256 = "25b332b89936b009832afc9ce892fa1121a87db68b7ad5a8336aa0ca6dee4c6c"
     url = "https://github.com/spacedome/FEAST_jll.jl/releases/download/FEAST-v4.0.0+0/FEAST.v4.0.0.i686-linux-musl-libgfortran5.tar.gz"
 [[FEAST]]
 arch = "x86_64"
-git-tree-sha1 = "7e1452947e88cc6d2fdf2a72a413dde56847cd42"
+git-tree-sha1 = "efc094f029ab7a1d7eae173f398afbb66f257ff9"
 libc = "glibc"
 libgfortran_version = "3.0.0"
 os = "linux"
 
     [[FEAST.download]]
-    sha256 = "aa3e1410825f8235bacf7006276d7609b03133fc07d7734c014fc915fa0e5ec1"
+    sha256 = "abb0e6b0afac72b6e328b5675631f797890bbc8da493f1ef3b7fa32c9a5d25f0"
     url = "https://github.com/spacedome/FEAST_jll.jl/releases/download/FEAST-v4.0.0+0/FEAST.v4.0.0.x86_64-linux-gnu-libgfortran3.tar.gz"
 [[FEAST]]
 arch = "x86_64"
-git-tree-sha1 = "a5df4d9e5b5833264f08130c1e3129843c586384"
+git-tree-sha1 = "b3946769724a3160197d5b0012adcdb118e98fc6"
 libc = "glibc"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[FEAST.download]]
-    sha256 = "eed26ac07f948a0a0299576018eaaac324fe1b4a0afb5b189e245f84db7ab513"
+    sha256 = "7fc5f2b4626e4e6d64fa65671a021911173a6124475cbc22805294bd5b27e875"
     url = "https://github.com/spacedome/FEAST_jll.jl/releases/download/FEAST-v4.0.0+0/FEAST.v4.0.0.x86_64-linux-gnu-libgfortran4.tar.gz"
 [[FEAST]]
 arch = "x86_64"
-git-tree-sha1 = "67fb75376d80161d966ea06336374d5ccb1f370e"
+git-tree-sha1 = "3b30a0269d3f203b5ca169c1fbdccb73d3646e14"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[FEAST.download]]
-    sha256 = "05f77ccf8c57cefebb06f4685eabf143b3af19ef2d5c739d8ab81698551350f4"
+    sha256 = "9d99a0947c90e513fa920dcd642a0fe5397ded45eff3c1c868af35fc5cdf97f0"
     url = "https://github.com/spacedome/FEAST_jll.jl/releases/download/FEAST-v4.0.0+0/FEAST.v4.0.0.x86_64-linux-gnu-libgfortran5.tar.gz"
 [[FEAST]]
 arch = "x86_64"
-git-tree-sha1 = "f3fc44e509e673ed14a353e901975ae9060528c4"
+git-tree-sha1 = "e329ed53bef2885e1a3a65a040f6983dc3e30bbb"
 libc = "musl"
 libgfortran_version = "3.0.0"
 os = "linux"
 
     [[FEAST.download]]
-    sha256 = "3c81558e7675da0dc064bd2c1223635d9f72e002f94a024c04d17163f701ed73"
+    sha256 = "205b58c774f8f07b7303824291133b46e65469d7601d9b251a81a9bb89ff75ea"
     url = "https://github.com/spacedome/FEAST_jll.jl/releases/download/FEAST-v4.0.0+0/FEAST.v4.0.0.x86_64-linux-musl-libgfortran3.tar.gz"
 [[FEAST]]
 arch = "x86_64"
-git-tree-sha1 = "6fda0b4cd4c3eab2ab28fcd984cd1717ef09b466"
+git-tree-sha1 = "3a4a7323ed515b348744faa20ab869e3bf74d13d"
 libc = "musl"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[FEAST.download]]
-    sha256 = "88db955adfda58187d0c98d23ba29b47ed7ed6fdd7ff4627e07ce8ae6616bda6"
+    sha256 = "dc384bdc153dbe4371e317151e9327c1ccf5f7bf1fcefab1a80775b8e846385d"
     url = "https://github.com/spacedome/FEAST_jll.jl/releases/download/FEAST-v4.0.0+0/FEAST.v4.0.0.x86_64-linux-musl-libgfortran4.tar.gz"
 [[FEAST]]
 arch = "x86_64"
-git-tree-sha1 = "cde27e747eda4d3036ae9e8aee5ff780c40d7480"
+git-tree-sha1 = "b37a0c5868ff8644fb37cbe4acb05aed59482651"
 libc = "musl"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[FEAST.download]]
-    sha256 = "a522f0dca4c305fc451d6fa414fd9f35e32fb145b2c2b06cdd047d387bf1e886"
+    sha256 = "5d6f263ec99b7139bc6559507efe828996f9365a79a76c8c396a8b6bd5a4bc65"
     url = "https://github.com/spacedome/FEAST_jll.jl/releases/download/FEAST-v4.0.0+0/FEAST.v4.0.0.x86_64-linux-musl-libgfortran5.tar.gz"
 [[FEAST]]
 arch = "x86_64"
-git-tree-sha1 = "5bcebe7023aeaf07cceada295d05322117a26d90"
+git-tree-sha1 = "741a6b5fa004b39981c823ec3f497be2a9f7d168"
 libgfortran_version = "3.0.0"
 os = "freebsd"
 
     [[FEAST.download]]
-    sha256 = "d27f41f465d72ccbdc28beac3477d25035bd95a02aabd03d2d14b0214a6d6e17"
+    sha256 = "9d78e2f86ed84d00ffb3c67b109e9f13093c0979a6e489b7d12ac2e24d9a615d"
     url = "https://github.com/spacedome/FEAST_jll.jl/releases/download/FEAST-v4.0.0+0/FEAST.v4.0.0.x86_64-unknown-freebsd11.1-libgfortran3.tar.gz"
 [[FEAST]]
 arch = "x86_64"
-git-tree-sha1 = "e2345858fbe473282610f1440be56d871dd7cb1f"
+git-tree-sha1 = "f6b6427ea3f566cb0dffe989c4ba33a40c9187f3"
 libgfortran_version = "4.0.0"
 os = "freebsd"
 
     [[FEAST.download]]
-    sha256 = "18e355e7129f27460ceb50ed68ab15d69985f8ae51f9c4114c6001a94cafa7ff"
+    sha256 = "09e92ae77e588fe2c0d8497fa3bc78e50a7e4d8fbafd1b348447ef1d17d23756"
     url = "https://github.com/spacedome/FEAST_jll.jl/releases/download/FEAST-v4.0.0+0/FEAST.v4.0.0.x86_64-unknown-freebsd11.1-libgfortran4.tar.gz"
 [[FEAST]]
 arch = "x86_64"
-git-tree-sha1 = "1a65bb2c31ca338be3f655e0c691fea82cee18c8"
+git-tree-sha1 = "81f597ad0ac5b46391b7b3475c503ee28b6be6ae"
 libgfortran_version = "5.0.0"
 os = "freebsd"
 
     [[FEAST.download]]
-    sha256 = "154d77e4d1e19a8995ad009cf0cb554f80e95491e6ce1de1657b79371a4fb8da"
+    sha256 = "c065d13ba65df27f6e0b7ab2569d81aef162f5f89cc1f9c03f04271310dd0f78"
     url = "https://github.com/spacedome/FEAST_jll.jl/releases/download/FEAST-v4.0.0+0/FEAST.v4.0.0.x86_64-unknown-freebsd11.1-libgfortran5.tar.gz"
