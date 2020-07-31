@@ -246,31 +246,31 @@ os = "linux"
     url = "https://github.com/spacedome/FEAST_jll.jl/releases/download/FEAST-v4.0.2+0/FEAST.v4.0.2.x86_64-linux-gnu.tar.gz"
 [[FEAST]]
 arch = "x86_64"
-git-tree-sha1 = "00348653b9e3121d48f4e088dbdaa8e7075c9220"
+git-tree-sha1 = "6a980eac50ff64247c80be4ae78d95f6c6e0e197"
 libc = "glibc"
 libgfortran_version = "3.0.0"
 os = "linux"
 
     [[FEAST.download]]
-    sha256 = "2f213420ccf4aad331708ed4fcac080a5b33822694be0893743ed688fadcd87b"
-    url = "https://github.com/spacedome/FEAST_jll.jl/releases/download/FEAST-v4.0.3+0/FEAST.v4.0.3.x86_64-linux-gnu-libgfortran3.tar.gz"
+    sha256 = "10562e8dbc1e5f5dc14b8735df2e2749d87a19572a6544de0b27a6f4b7abe34d"
+    url = "https://github.com/spacedome/FEAST_jll.jl/releases/download/FEAST-v4.0.4+0/FEAST.v4.0.4.x86_64-linux-gnu-libgfortran3.tar.gz"
 [[FEAST]]
 arch = "x86_64"
-git-tree-sha1 = "3ebbd37c5d32afe23629b291fe61b56cda2e4366"
+git-tree-sha1 = "39816e9fae44b0b8993e414f1f51bd4d30986830"
 libc = "glibc"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[FEAST.download]]
-    sha256 = "b5941c7d4d0e1df4eace97289205b1cce6778dff548bc6ed1bb4c796ec749ca4"
-    url = "https://github.com/spacedome/FEAST_jll.jl/releases/download/FEAST-v4.0.3+0/FEAST.v4.0.3.x86_64-linux-gnu-libgfortran4.tar.gz"
+    sha256 = "c8b105ca51a91fa5442da5706b3d6d96ebabb72c630a8739728564b925a4ddc2"
+    url = "https://github.com/spacedome/FEAST_jll.jl/releases/download/FEAST-v4.0.4+0/FEAST.v4.0.4.x86_64-linux-gnu-libgfortran4.tar.gz"
 [[FEAST]]
 arch = "x86_64"
-git-tree-sha1 = "b5053b8647cb917507348d848e269ea64fe20f38"
+git-tree-sha1 = "97aefd4cc864028419e21d0fcf01f6459bc23de8"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[FEAST.download]]
-    sha256 = "8b1193640a387045c1cb0f072c2696681637056e77935ab2d576d099e04bb4e7"
-    url = "https://github.com/spacedome/FEAST_jll.jl/releases/download/FEAST-v4.0.3+0/FEAST.v4.0.3.x86_64-linux-gnu-libgfortran5.tar.gz"
+    sha256 = "dd004086595d7d1ef154b927c3b0cd17aadc7bc0ae786d84c69eae71d97c4eef"
+    url = "https://github.com/spacedome/FEAST_jll.jl/releases/download/FEAST-v4.0.4+0/FEAST.v4.0.4.x86_64-linux-gnu-libgfortran5.tar.gz"
