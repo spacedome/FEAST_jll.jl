@@ -265,3 +265,12 @@ os = "linux"
     [[FEAST.download]]
     sha256 = "c617de47b096fc8744ef3c7b596504db04cce7d4ef8f6c4e7f40a118e9b65ee3"
     url = "https://github.com/spacedome/FEAST_jll.jl/releases/download/FEAST-v4.0.1+0/FEAST.v4.0.1.x86_64-linux-gnu-libgfortran5.tar.gz"
+[[FEAST]]
+arch = "x86_64"
+git-tree-sha1 = "347828cf08b4e4427e7d414687845af7481f56db"
+libc = "glibc"
+os = "linux"
+
+    [[FEAST.download]]
+    sha256 = "0aa4d9d17c5ba258e3aafa2b3327628e7a23a7698591b94231dc1b3c5540a80b"
+    url = "https://github.com/spacedome/FEAST_jll.jl/releases/download/FEAST-v4.0.2+0/FEAST.v4.0.2.x86_64-linux-gnu.tar.gz"
